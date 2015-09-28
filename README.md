@@ -1,2 +1,2 @@
-# cs-labdemo
-awesome
+# cs3240-labdemo
+hey there
